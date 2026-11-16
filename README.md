@@ -28,8 +28,8 @@ decision.
 
 ### /// SELECTED WORK
 
-- **CTI writing** — open-source, confidence-graded actor profiles and structured assessments: [the method behind the tooling](https://falsifyer.github.io/from-source-to-a-defensible-judgement/).
-- **Method & requirements** — how the analysis is graded, reviewed and corrected ([method](https://falsifyer.github.io/method/)) and the standing requirements it answers ([requirements](https://falsifyer.github.io/requirements/)).
+- **CTI writing** — open-source, confidence-graded actor profiles and structured assessments: [the method behind the tooling](https://martineliseo.es/from-source-to-a-defensible-judgement/).
+- **Method & requirements** — how the analysis is graded, reviewed and corrected ([method](https://martineliseo.es/method/)) and the standing requirements it answers ([requirements](https://martineliseo.es/requirements/)).
 - **CTI knowledge corpus** — a working corpus on the intelligence cycle, tradecraft standards and sharing formats *(currently private)*.
 
 ### /// CONTACT
