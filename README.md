@@ -34,7 +34,8 @@ decision.
 
 ### /// CONTACT
 
-For vulnerability disclosures or professional inquiries: [LinkedIn](https://www.linkedin.com/in/martin-eliseo).
+For vulnerability disclosures: [hola@martineliseo.es](mailto:hola@martineliseo.es).
+For professional inquiries: [LinkedIn](https://www.linkedin.com/in/martin-eliseo).
 
 ### /// LICENCE
 
