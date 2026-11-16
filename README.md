@@ -35,3 +35,7 @@ decision.
 ### /// CONTACT
 
 For vulnerability disclosures or professional inquiries: [LinkedIn](https://www.linkedin.com/in/martin-eliseo).
+
+### /// LICENCE
+
+Text licensed [CC BY 4.0](LICENSE).
